@@ -1,122 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,100:2ECC71&height=180&section=header&text=Christopher%20Honeywick%20Kalenge&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101820,50:174A39,100:2ECC71&text=Christopher%20Honeywick%20Kalenge&fontSize=30&fontColor=ffffff&fontAlignY=37&desc=Software%20Engineering%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=13&descAlignY=58" width="100%" alt="Christopher Honeywick Kalenge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-honeywick-8a5612368/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:honeywickchristopher@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/honeywic">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="center">
-  Computer Science Student | Software Developer |
-  Data Science & Machine Learning Enthusiast
+  Computer Science Student @ UDSM · Developer · Aspiring AI Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+useful+software;Exploring+Data+Science+and+ML;Developing+CiteLoom;Learning+and+building+every+day" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=honeywic&label=Profile%20Views&color=2ECC71&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Building+CiteLoom;Exploring+Data+Science+%26+Machine+Learning;Developing+useful+software;Turning+ideas+into+working+products" alt="What I do" />
 </p>
 
 ---
 
 ## About Me
 
-I'm Christopher Honeywick Kalenge, a Computer Science
-student at the University of Dar es Salaam (UDSM), Tanzania.
+Hi, I'm **Christopher Honeywick Kalenge**, a Computer Science student at the **University of Dar es Salaam (UDSM), Tanzania**.
 
-I'm interested in building practical software, exploring
-data science and machine learning, and solving real-world
-problems through technology.
+I'm passionate about building software, understanding data, and applying technology to real-world problems. My interests sit at the intersection of **software engineering, data science, machine learning, and computer vision**.
 
-- 🎓 BSc Computer Science — University of Dar es Salaam
-- 💻 Interested in software engineering and data-driven systems
-- 🤖 Exploring machine learning and computer vision
-- 🚀 Building CiteLoom, a data profiling and cleaning platform
-- 🌱 Constantly learning, experimenting, and building projects
+I enjoy more than just writing code. I like identifying problems, designing practical solutions, experimenting with new technologies, and improving what I build.
 
-## Tech Stack
+- 🎓 Pursuing a BSc in Computer Science at UDSM.
+- 🚀 Building **CiteLoom**, a data profiling and cleaning platform.
+- 🧠 Learning and experimenting with data science and machine learning.
+- 💻 Developing web applications, backend systems, and APIs.
+- 🔬 Interested in computer vision, AI systems, and data quality.
+- 🌍 Based in Tanzania.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,postgres,spring,git,github,vscode" />
-</p>
+> My goal is to build reliable, useful technology that makes complex work simpler.
 
-**Areas of interest:** Software Engineering · Data Science ·
-Machine Learning · Computer Vision · Data Engineering · APIs
+## What I'm Working On
 
-## Featured Projects
-
-### 1. CiteLoom
-
-An AI-assisted data profiling and cleaning platform I'm building
-to help users identify data-quality problems and prepare
-analysis-ready datasets.
-
-- Data profiling and quality checks
-- Data cleaning and transformation
-- Focus on making data preparation easier
-
-[Explore CiteLoom](https://github.com/honeywic/CiteLoom)
-
-### 2. Water-Well Tracking System
-
-Worked on a digital system for tracking water-well locations
-and records in field environments, including offline constraints.
-
-### 3. School Digital Library System
-
-Developed a digital library system to support book tracking
-and improve library record management.
-
-## Experience
-
-### Huawei Tanzania — Practical Training
-
-- Worked with OWS and App Orchestration workflows.
-- Contributed to dashboards and ticket-related processes.
-- Participated in testing, production fixes, and documentation.
-
-### Sky Connect — Data Labeling
-
-- Used Label Studio to annotate images for a computer-vision
-  workflow related to Serengeti tourism.
-- Worked with categories including tourist vehicles,
-  other vehicles, humans, and non-human objects.
-
-## Currently Exploring
-
-- Machine learning and computer vision
-- Data science and analytical workflows
-- Backend development and API design
-- Reliable data processing and data quality
-- Open-source software and product development
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=honeywic&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeywic&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=honeywic&theme=tokyonight&hide_border=true" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=honeywic&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-## Connect With Me
-
-<!-- Add your professional links here.
-     Remove any link you do not use. -->
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_PUBLIC_PROFESSIONAL_EMAIL
-
----
-
-<p align="center">
-  Building useful software, learning continuously,
-  and turning ideas into working products.
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · CiteLoom</h3>
+      <p><strong>Data quality, without the guesswork.</strong></p>
+      Building a platform focused on helping users understand, clean, and transform messy datasets into analysis-ready data.
+      <br/><br/>
+      <strong>Exploring:</strong>
+      <ul>
+        <li>Data profiling and quality checks</li>
+        <li>Missing values, duplicates, and inconsistencies</li>
+        <li>Cleaning and transformation workflows</li>
+        <li>Data exports and quality reports</li>
+        <li>API integrations and backend architecture</li>
+      </ul>
+      <a href="https://github.com/honey
