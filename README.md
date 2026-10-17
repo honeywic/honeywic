@@ -1,14 +1,18 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:101820,60:123B4A,100:2ECC71&height=260&section=header&text=Christopher%20Honeywick%20Kalenge&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE%20%7C%20AI%2FML&descAlignY=57&descSize=15&animation=twinkling" width="100%" alt="Futuristic developer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:101820,55:123C5A,80:176B55,100:2ECC71&height=250&section=header&text=Christopher%20Honeywick%20Kalenge&fontSize=36&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE%20%7C%20AI%2FML&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Christopher Honeywick Kalenge futuristic profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=2ECC71&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+UDSM;Building+CiteLoom+%7C+Data+Quality+Without+Guesswork;Exploring+Data+Science+%26+Machine+Learning;Computer+Vision+%7C+Data-Centric+AI;From+Ideas+to+Practical+Software" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=2ECC71&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+UDSM;Building+CiteLoom+%7C+Data+Quality+Without+Guesswork;Exploring+Data+Science+%26+Machine+Learning;Computer+Vision+%7C+Data-Centric+AI;Turning+Ideas+Into+Working+Software" alt="Animated futuristic introduction"/>
 </p>
+
+<h3 align="center">
+  Engineering useful software. Making data more valuable. Exploring intelligent systems.
+</h3>
 
 <p align="center">
   <a href="https://github.com/honeywic">
-    <img src="https://img.shields.io/badge/GitHub-honeywic-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-honeywic-101820?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,50 +23,50 @@
 </p>
 
 <p align="center">
-  <i>Curious mind. Builder's mindset. Data-driven thinking.</i>
+  <i>Curious by nature. Driven by engineering. Focused on real-world impact.</i>
 </p>
 
 ---
 
 ## `whoami` — About Me
 
-I'm **Christopher Honeywick Kalenge**, a Computer Science student at the **University of Dar es Salaam (UDSM), Tanzania**. I'm interested in software engineering, data science, machine learning, and developing practical technology products.
+I'm **Christopher Honeywick Kalenge**, a Computer Science student at the **University of Dar es Salaam (UDSM), Tanzania**.
 
-I enjoy exploring how software systems and data can work together to solve real-world problems. My interests span application development, backend systems, data preparation, computer vision, and building products that make complex workflows simpler.
+My interests span software engineering, data science, machine learning, and the development of practical technology products. I enjoy understanding how systems work, transforming ideas into usable applications, and exploring how reliable data can support better decisions.
 
 - 🎓 **Education:** BSc Computer Science — University of Dar es Salaam
 - 💻 **Software Engineering:** Web applications, backend systems, APIs, and databases
-- 📊 **Data Science:** Data preparation, exploratory data analysis, data quality, and visualization
+- 📊 **Data Science:** Data preparation, exploratory analysis, data quality, and visualization
 - 🤖 **Machine Learning:** Model-training fundamentals, computer vision, and dataset preparation
-- 🧠 **Research interests:** Data-centric AI, reliable ML workflows, and practical AI applications
-- 🚀 **Product development:** Building CiteLoom and contributing to public software projects
+- 🧠 **Research interests:** Data-centric AI, reliable ML workflows, and intelligent systems
+- 🚀 **Product development:** Building CiteLoom and exploring practical software solutions
 
 ## Data Science & Machine Learning
 
-I'm developing my skills across the data science and machine learning lifecycle, from collecting and preparing data to analyzing patterns and understanding model performance.
+I'm developing my understanding of the machine-learning lifecycle, from collecting and preparing data to training models and evaluating their performance.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Science</h3>
+      <h3>Data Science</h3>
       <ul>
         <li>Data cleaning, profiling, and validation.</li>
         <li>Exploratory data analysis and pattern discovery.</li>
-        <li>Data transformation and feature preparation.</li>
-        <li>Structured data and database workflows.</li>
-        <li>Data visualization and communicating insights.</li>
-        <li>Improving data quality for downstream analysis.</li>
+        <li>Data quality assessment and feature preparation.</li>
+        <li>Working with structured datasets and databases.</li>
+        <li>Data visualization and communicating analytical findings.</li>
+        <li>Building reliable, analysis-ready datasets.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Machine Learning</h3>
+      <h3>Machine Learning & AI</h3>
       <ul>
-        <li>Model training and evaluation fundamentals.</li>
-        <li>Computer vision and image classification.</li>
+        <li>Learning model-training and evaluation fundamentals.</li>
+        <li>Computer vision and image-classification workflows.</li>
         <li>Image annotation and supervised-learning datasets.</li>
-        <li>Dataset quality and its impact on model performance.</li>
-        <li>Reproducible data and model workflows.</li>
-        <li>Exploring data-centric AI techniques.</li>
+        <li>Understanding the relationship between data quality and model performance.</li>
+        <li>Exploring reproducible ML pipelines.</li>
+        <li>Investigating practical applications of data-centric AI.</li>
       </ul>
     </td>
   </tr>
@@ -70,70 +74,48 @@ I'm developing my skills across the data science and machine learning lifecycle,
 
 ### Practical Computer Vision Experience
 
-At Sky Connect, I used **Label Studio** to annotate thousands of images for a computer-vision workflow related to Serengeti tourism.
+During my data-labeling work at **Sky Connect**, I used **Label Studio** to annotate thousands of images for a computer-vision workflow related to Serengeti tourism.
 
-The annotation task involved distinguishing tourist vehicles from other vehicles, humans from non-human objects, and other relevant visual categories.
+The annotation categories included tourist vehicles, other vehicles, humans, and non-human objects. This experience exposed me to dataset preparation for computer vision and the importance of consistent labeling when developing supervised-learning systems.
 
-This gave me practical exposure to image annotation and the preparation of labeled datasets for machine learning. It also strengthened my interest in how data quality, labeling consistency, and representative training examples can influence computer-vision systems.
+I'm interested in building on this experience by exploring model training, evaluation, dataset quality, and methods for improving the reliability of machine-learning systems.
 
-My next learning goals include deepening my understanding of model evaluation, feature engineering, dataset validation, and the relationship between data quality and model performance.
+## Technology Stack
 
-## Tech Stack
+Click any technology or tool below to visit its official website or documentation.
 
-Click any icon to visit the corresponding official website or documentation.
+### Programming Languages
 
-<p align="center">
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>
-  </a>
+<p>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java official website"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python official website"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript documentation"/></a>
 </p>
 
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/doc" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://docs.github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/docs" title="Visual Studio Code">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48"/>
-  </a>
+### Frontend & Backend Development
+
+<p>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React official documentation"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML documentation"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS documentation"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot official website"/></a>
 </p>
 
-<p align="center">
-  <a href="https://labelstud.io/">
-    <img src="https://img.shields.io/badge/Label%20Studio-Image%20Annotation-38A169?style=for-the-badge" alt="Label Studio"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/Scikit--learn-ML%20Documentation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn documentation"/>
-  </a>
-  <a href="https://pandas.pydata.org/docs/">
-    <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas documentation"/>
-  </a>
+### Data, Databases & Machine Learning Tools
+
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL official website"/></a>
+  <a href="https://labelstud.io/"><img src="https://img.shields.io/badge/Label%20Studio-2ECC71?style=for-the-badge" alt="Label Studio official website"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/></a>
 </p>
 
-**Core areas:** Software Engineering · Data Science · Machine Learning · Computer Vision · Data Engineering · API Development · Database Systems
+### Development Tools & Version Control
+
+<p>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git official website"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code official website"/></a>
+</p>
 
 ## Featured Projects
 
@@ -141,54 +123,61 @@ Click any icon to visit the corresponding official website or documentation.
 
 <p>
   <a href="https://github.com/honeywic/CiteLoom">
-    <img src="https://img.shields.io/badge/Explore%20CiteLoom-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Explore CiteLoom"/>
+    <img src="https://img.shields.io/badge/Explore%20CiteLoom-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Explore CiteLoom on GitHub"/>
   </a>
 </p>
 
-CiteLoom is a data profiling, cleaning, and transformation platform I'm building to help users identify data-quality problems and prepare analysis-ready datasets.
+**CiteLoom** is a data profiling, cleaning, and transformation platform I'm building to help users identify data-quality problems and prepare analysis-ready datasets.
 
-**Project focus**
-- Dataset profiling and data-quality assessment.
-- Detection of missing values, duplicates, and inconsistent formats.
-- Simplified data cleaning and transformation workflows.
-- More reliable datasets for analytics and machine learning.
-- Making data preparation accessible through a practical interface.
+The idea is to make data preparation easier through accessible workflows rather than requiring users to write code for every cleaning operation.
+
+**Key focus areas**
+- Dataset profiling and quality assessment.
+- Detecting missing values, duplicates, and inconsistent formats.
+- Data cleaning and transformation workflows.
+- Improving the reliability of datasets used for analytics and machine learning.
+- Making data preparation more transparent and easier to manage.
 
 ### 02. MVS — Mzumbe Voting System
 
 <p>
   <a href="https://github.com/honeywic/MVS">
-    <img src="https://img.shields.io/badge/Explore%20MVS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mzumbe Voting System"/>
+    <img src="https://img.shields.io/badge/Explore%20MVS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mzumbe Voting System on GitHub"/>
   </a>
 </p>
 
-**MVS stands for Mzumbe Voting System**, a software project available in my public GitHub repositories.
+**MVS stands for Mzumbe Voting System**, a public software project in my GitHub portfolio focused on digital voting in the Mzumbe context.
 
-The project represents my work in building software for an institutional voting context. Electronic voting systems are an interesting application of software engineering because they require careful consideration of usability, reliable vote recording, data integrity, access control, and the handling of election results.
+The project represents my interest in applying software engineering to institutional processes by exploring how voting activities can be supported through a digital system.
 
-From a software development perspective, a voting system can involve several important design considerations:
+**Project objectives and areas of interest**
+- **Digital voting:** Supporting a software-based approach to voting processes.
+- **Voting workflow:** Exploring how a voting process can be organized through an application.
+- **Accessibility and usability:** Considering how intended users interact with the system.
+- **Software engineering:** Applying programming and application-development principles to a practical project.
+- **Public development:** Making the repository accessible so others can inspect the code and project documentation.
 
-- **Voter experience:** making the voting process clear and accessible to intended users.
-- **Vote recording:** designing a reliable process for recording submitted choices.
-- **Data integrity:** protecting stored voting records from unintended modification.
-- **Access control:** ensuring that system functions are available only to authorized users.
-- **Results and reporting:** presenting election outcomes accurately and transparently.
+Explore the [MVS public repository](https://github.com/honeywic/MVS) for its actual implementation, technologies, features, and setup instructions.
 
-These are general considerations for electronic voting software, not a claim that every feature listed is already implemented in MVS. For the actual technology stack, implemented functionality, setup instructions, and current project status, refer to the source code and documentation in the public repository.
-
-**Explore the project:** [github.com/honeywic/MVS](https://github.com/honeywic/MVS)
+*Note: The description above identifies the project's purpose, but I haven't verified the repository's current source code or implemented features. The objectives listed here should not be interpreted as confirmation that every capability is already implemented.*
 
 ### 03. Water-Well Tracking System
 
 Worked on a digital system for tracking water-well locations and related records in field environments, including offline constraints.
 
-**Focus areas:** Geographical data · Field data collection · Information systems
+**Focus areas**
+- Geographical data and location tracking.
+- Field data collection and record management.
+- Practical information systems for real-world environments.
 
 ### 04. School Digital Library System
 
 Developed a digital library system to support book tracking and improve library record management.
 
-**Focus areas:** Application development · Digital records · Workflow improvement
+**Focus areas**
+- Application development and digital records.
+- Book tracking and information management.
+- Improving existing workflows through software.
 
 ## Experience
 
@@ -200,18 +189,19 @@ Developed a digital library system to support book tracking and improve library 
 
 ### Sky Connect — Data Labeling
 
-- Used Label Studio for image annotation in a computer-vision workflow.
-- Worked with image categories involving tourist vehicles, other vehicles, humans, and non-human objects.
-- Gained practical experience in labeled dataset preparation for machine learning.
+- Used Label Studio for image annotation in a computer-vision workflow related to Serengeti tourism.
+- Worked with categories involving tourist vehicles, other vehicles, humans, and non-human objects.
+- Gained practical experience in preparing labeled image datasets for machine-learning workflows.
 
 ## Currently Exploring
 
-- Machine learning algorithms, training, and evaluation.
+- Machine-learning algorithms, training, and evaluation.
 - Computer vision and image-classification workflows.
-- Exploratory data analysis and statistical reasoning.
-- Data-centric AI and the effect of dataset quality on model performance.
-- Backend APIs, database design, and reliable data pipelines.
-- Open-source collaboration and software product development.
+- Data-centric AI and the influence of dataset quality on model performance.
+- Exploratory data analysis and statistical thinking.
+- Backend development, APIs, and database systems.
+- Reproducible data workflows and reliable software.
+- Open-source collaboration and product development.
 
 ## GitHub Analytics
 
@@ -231,7 +221,7 @@ Developed a digital library system to support book tracking and improve library 
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
   <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
 </p>
 
