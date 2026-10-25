@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:101820,60:123B4A,100:2ECC71&height=260&section=header&text=Christopher%20Honeywick%20Kalenge&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE%20%7C%20AI%2FML&descAlignY=57&descSize=15&animation=twinkling" width="100%" alt="Futuristic developer banner"/>
 </p>
 
@@ -83,40 +83,40 @@ My next learning goals include deepening my understanding of model evaluation, f
 Click any icon to visit the corresponding official website or documentation.
 
 <p align="center">
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java">
+  <a href="https://www.java.com/" title="Java" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/>
-  </a>  
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
+  </a>  
+  <a href="https://www.python.org/" title="Python" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48"/>
-  </a>  
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React">
+  </a>  
+  <a href="https://react.dev/" title="React" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML">
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS">
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer" title="Spring Boot">
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/>
-  </a>  
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noopener noreferrer" title="PostgreSQL">
+  </a>  
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/>
-  </a>  
-  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer" title="Git">
+  </a>  
+  <a href="https://git-scm.com/doc" title="Git" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
-  </a>  
-  <a href="https://docs.github.com/" target="_blank" rel="noopener noreferrer" title="GitHub">
+  </a>  
+  <a href="https://docs.github.com/" title="GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
-  </a>  
-  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer" title="Visual Studio Code">
+  </a>  
+  <a href="https://code.visualstudio.com/docs" title="Visual Studio Code" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48"/>
   </a>
 </p>
