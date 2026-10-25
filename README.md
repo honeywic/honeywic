@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:101820,60:123B4A,100:2ECC71&height=260&section=header&text=Christopher%20Honeywick%20Kalenge&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20SCIENCE%20%7C%20AI%2FML&descAlignY=57&descSize=15&animation=twinkling" width="100%" alt="Futuristic developer banner"/>
 </p>
 
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/honeywic">
+  <a href="https://github.com/honeywic" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-honeywic-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/">
+  <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/honeywic/CiteLoom">
+  <a href="https://github.com/honeywic/CiteLoom" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Building-CiteLoom-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="CiteLoom"/>
   </a>
 </p>
@@ -83,52 +83,52 @@ My next learning goals include deepening my understanding of model evaluation, f
 Click any icon to visit the corresponding official website or documentation.
 
 <p align="center">
-  <a href="https://www.java.com/" title="Java">
+  <a href="https://www.java.com/" title="Java" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" title="Python">
+  <a href="https://www.python.org/" title="Python" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://react.dev/" title="React">
+  <a href="https://react.dev/" title="React" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL">
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/doc" title="Git">
+  <a href="https://git-scm.com/doc" title="Git" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://docs.github.com/" title="GitHub">
+  <a href="https://docs.github.com/" title="GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/docs" title="Visual Studio Code">
+  <a href="https://code.visualstudio.com/docs" title="Visual Studio Code" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://labelstud.io/">
+  <a href="https://labelstud.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Label%20Studio-Image%20Annotation-38A169?style=for-the-badge" alt="Label Studio"/>
   </a>
-  <a href="https://scikit-learn.org/stable/">
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Scikit--learn-ML%20Documentation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn documentation"/>
   </a>
-  <a href="https://pandas.pydata.org/docs/">
+  <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas documentation"/>
   </a>
 </p>
@@ -140,7 +140,7 @@ Click any icon to visit the corresponding official website or documentation.
 ### 01. CiteLoom — Data Quality Without the Guesswork
 
 <p>
-  <a href="https://github.com/honeywic/CiteLoom">
+  <a href="https://github.com/honeywic/CiteLoom" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Explore%20CiteLoom-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Explore CiteLoom"/>
   </a>
 </p>
@@ -148,6 +148,7 @@ Click any icon to visit the corresponding official website or documentation.
 CiteLoom is a data profiling, cleaning, and transformation platform I'm building to help users identify data-quality problems and prepare analysis-ready datasets.
 
 **Project focus**
+
 - Dataset profiling and data-quality assessment.
 - Detection of missing values, duplicates, and inconsistent formats.
 - Simplified data cleaning and transformation workflows.
@@ -157,7 +158,7 @@ CiteLoom is a data profiling, cleaning, and transformation platform I'm building
 ### 02. MVS — Mzumbe Voting System
 
 <p>
-  <a href="https://github.com/honeywic/MVS">
+  <a href="https://github.com/honeywic/MVS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Explore%20MVS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mzumbe Voting System"/>
   </a>
 </p>
@@ -176,7 +177,8 @@ From a software development perspective, a voting system can involve several imp
 
 These are general considerations for electronic voting software, not a claim that every feature listed is already implemented in MVS. For the actual technology stack, implemented functionality, setup instructions, and current project status, refer to the source code and documentation in the public repository.
 
-**Explore the project:** [github.com/honeywic/MVS](https://github.com/honeywic/MVS)
+**Explore the project:**
+<a href="https://github.com/honeywic/MVS" target="_blank" rel="noopener noreferrer">github.com/honeywic/MVS</a>
 
 ### 03. Water-Well Tracking System
 
@@ -227,10 +229,10 @@ Developed a digital library system to support book tracking and improve library 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/honeywic">
+  <a href="https://github.com/honeywic" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
-  <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/">
+  <a href="https://linkedin.com/in/christopher-honeywick-8a5612368/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
   </a>
 </p>
