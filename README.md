@@ -214,12 +214,6 @@ Developed a digital library system to support book tracking and improve library 
 - Open-source collaboration and software product development.
 
 ## GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=honeywic&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeywic&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=honeywic&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
