@@ -172,13 +172,6 @@ GitHub Analytics
   <img src="https://img.shields.io/github/followers/honeywic?style=for-the-badge&logo=github&label=Followers&color=2ECC71" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/repos/honeywic?style=for-the-badge&logo=github&label=Public%20Repositories&color=123B4A" alt="Public GitHub repositories"/>
   <img src="https://img.shields.io/github/stars/honeywic/MVS?style=for-the-badge&logo=github&label=MVS%20Stars&color=123B4A" alt="MVS stars"/>
-</p><p align="center">
-  <a href="https://github.com/honeywic">
-    <img height="180" src="./profile/stats.svg" alt="GitHub profile statistics"/>
-  </a>
-  <a href="https://github.com/honeywic">
-    <img height="180" src="./profile/top-langs.svg" alt="Most-used programming languages on GitHub"/>
-  </a>
 </p>Contribution & Activity Trends
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=honeywic&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
