@@ -185,11 +185,7 @@ GitHub Analytics
 </p><p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honeywic&theme=tokyonight" alt="GitHub profile summary and contribution history"/>
 </p>Featured Repository Insights
-<p align="center">
-  <a href="https://github.com/honeywic/MVS">
-    <img width="49%" src="./profile/mvs.svg" alt="MVS repository statistics"/>
-  </a>
-</p><!-- CiteLoom star and repository cards are omitted until https://github.com/honeywic/CiteLoom is publicly accessible. GitHub currently returns 404 for that repository. -->Connect With Me
+<!-- CiteLoom star and repository cards are omitted until https://github.com/honeywic/CiteLoom is publicly accessible. GitHub currently returns 404 for that repository. -->Connect With Me
 <p align="center">
   <a href="https://github.com/honeywic" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
