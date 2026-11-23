@@ -140,6 +140,7 @@ From a software development perspective, a voting system can involve several imp
 These are general considerations for electronic voting software, not a claim that every feature listed is already implemented in MVS. For the actual technology stack, implemented functionality, setup instructions, and current project status, refer to the source code and documentation in the public repository.
 
 Explore the project: <a href="https://github.com/honeywic/MVS" target="_blank" rel="noopener noreferrer">github.com/honeywic/MVS</a>
+
 03. Water-Well Tracking System
 Worked on a digital system for tracking water-well locations and related records in field environments, including offline constraints.
 
