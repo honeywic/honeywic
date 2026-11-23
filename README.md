@@ -145,6 +145,7 @@ Explore the project: <a href="https://github.com/honeywic/MVS" target="_blank" r
 Worked on a digital system for tracking water-well locations and related records in field environments, including offline constraints.
 
 Focus areas: Geographical data · Field data collection · Information systems
+
 04. School Digital Library System
 Developed a digital library system to support book tracking and improve library record management.
 
