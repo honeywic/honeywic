@@ -147,24 +147,6 @@ Focus areas: Geographical data · Field data collection · Information systems
 04. School Digital Library System
 Developed a digital library system to support book tracking and improve library record management.
 
-Focus areas: Application development · Digital records · Workflow improvement
-Experience
-Huawei Tanzania — Practical Training
-- Worked with OWS and App Orchestration workflows.
-- Contributed to dashboards and ticket-related processes.
-- Participated in testing, production fixes, and technical documentation.
-Sky Connect — Data Labeling
-- Used Label Studio for image annotation in a computer-vision workflow.
-- Worked with image categories involving tourist vehicles, other vehicles, humans, and non-human objects.
-- Gained practical experience in labeled dataset preparation for machine learning.
-Currently Exploring
-- Machine learning algorithms, training, and evaluation.
-- Computer vision and image-classification workflows.
-- Exploratory data analysis and statistical reasoning.
-- Data-centric AI and the effect of dataset quality on model performance.
-- Backend APIs, database design, and reliable data pipelines.
-- Open-source collaboration and software product development.
-GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=honeywic&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>Live GitHub Profile Metrics
